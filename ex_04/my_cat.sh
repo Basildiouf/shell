@@ -1,0 +1,2 @@
+#!/bin/base
+cat coding
